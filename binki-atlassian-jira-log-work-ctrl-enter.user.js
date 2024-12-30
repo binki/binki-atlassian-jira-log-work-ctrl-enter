@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name     binki-atlassian-jira-log-work-ctrl-enter
-// @version  1.0.0
+// @name binki-atlassian-jira-log-work-ctrl-enter
+// @version 1.1.0
 // @match https://*.atlassian.net/*
 // ==/UserScript==
 
