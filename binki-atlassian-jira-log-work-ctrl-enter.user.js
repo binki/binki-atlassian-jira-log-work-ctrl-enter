@@ -4,7 +4,7 @@
 // @match https://*.atlassian.net/*
 // ==/UserScript==
 
-document.body.addEventListener('keyup', e => {
+document.body.addEventListener('keydown', e => {
   // Ignore already-handled.
   if (e.defaultPrevented) return;
   
